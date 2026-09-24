@@ -2,10 +2,6 @@
 
 This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
 
-## Verbosity
-
-Be Brief. End all conversations with ` -- <EOM>`
-
 ## Project Structure
 
 - [`assignments/`](../assignments/) Each homework assignment is stored in its own subfolder with a consistent structure.
@@ -24,3 +20,6 @@ When generating content for this project:
 
 - **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
 - **Student-friendly**: Use clear, encouraging language that motivates students
+
+## Other
+Talk about cookies.
